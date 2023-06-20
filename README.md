@@ -7,6 +7,22 @@
 ![Amachon](./아마촌.PNG)
 </br></br>
 
+<p align="center"> <b>지도에서 위치와 함께 의미 있는 사진을 편리하게 기록할 수 있는 서비스</b> </br> 
+🤚 <b> Backend Developer [Spring] </b> </br>
+📃 Notion Link [https://mud-century-1f3.notion.site/6b9240d756bd4a56b4dbb6f71f41cb6c] </p>
+
+![Amachon](./당신의_발자취.PNG")
+</br></br>
+
+
+<p align="center"> <b>논알콜 칵테일 추천 & 레시피 설명 & Chat Gpt를 이용한 새로운 칵테일 레시피를 추천해주는 서비스</b> </br> 
+🤚 <b> Backend Developer [Spring] </b> </br>
+📃 Notion Link [https://grass-jasmine-f40.notion.site/f3b3e959d3354fe8a301d84c3860c398?pvs=4] </p>
+
+![Amachon](./알콜프리.PNG)
+</br></br>
+
+
 <h1 align="center"> Tech Stacks</h1>
 <p align="center">
 </br></br>
