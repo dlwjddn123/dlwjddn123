@@ -4,7 +4,7 @@
 🤚 <b> Backend Developer & Project Manager [Spring] </b> </br>
 📃 Notion Link [https://best-jitterbug-a77.notion.site/8a1f98cbb7d944649b2f9aed11781247?pvs=4] </p>
 
-![Amachon](https://user-images.githubusercontent.com)
+![Amachon](./아마촌.PNG)
 </br></br>
 
 <h1 align="center"> Tech Stacks</h1>
