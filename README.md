@@ -11,7 +11,7 @@
 🤚 <b> Backend Developer [Spring] </b> </br>
 📃 Notion Link [https://mud-century-1f3.notion.site/6b9240d756bd4a56b4dbb6f71f41cb6c] </p>
 
-![Amachon](./당신의_발자취.PNG")
+![Amachon](./당신의발자취.png")
 </br></br>
 
 
