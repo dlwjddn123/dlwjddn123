@@ -1,4 +1,3 @@
-
 <h1 align="center">Projects</h1>
 <p align="center"> <b>아마추어를 위한 프로젝트 매칭 서비스</b> </br> 
 🤚 역할 : Backend Developer & Project Manager</br>
@@ -26,9 +25,9 @@
 </br></br>
 
 
-<h1 align="center"> Tech Stacks</h1>
+<h1 align="center">💪 Skills</h1>
+</br>
 <p align="center">
-</br></br>
 <img src="https://img.shields.io/badge/Python-0040FF?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-8A4B08?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-04B404?style=flat-square&logo=Spring&logoColor=white"/>
@@ -37,17 +36,15 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</br>
 
-</br></br>
-
-<h1 align="center">GitHub Status</h1>
+<h1 align="center">👉 GitHub Status</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dlwjddn123&theme=blue-green"/>
 </p>
-</br>
 
-<h1 align="center">Algorithm</h1>
+<h1 align="center">🏃 Algorithm</h1>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acg6138"/>
 </p>
