@@ -26,14 +26,6 @@
 </br>
 
 <h1 align="center">Projects</h1>
-<p align="center"> <b>아마추어를 위한 프로젝트 매칭 서비스</b> </br> 
-🤚 역할 : Backend Developer & Project Manager</br>
-🛠️ 사용한 기술 : Spring, JPA, QueryDsl, MySQL, EC2, RDS, S3</br>
-📃 Notion [https://best-jitterbug-a77.notion.site/8a1f98cbb7d944649b2f9aed11781247?pvs=4] <br> 
-👉 Github [https://github.com/Project-AmaChon/Server] </p> 
-
-![Amachon](./아마촌.PNG)
-</br></br>
 
 <p align="center"> <b>지도에서 위치와 함께 의미 있는 사진을 편리하게 기록할 수 있는 서비스</b> </br> 
 🤚 역할 : Backend Developer </br>
@@ -44,7 +36,6 @@
 ![Dangbal](./당발.png)
 </br></br>
 
-
 <p align="center"> <b>논알콜 칵테일 추천 & 레시피 설명 & Chat Gpt를 이용한 새로운 칵테일 레시피를 추천해주는 서비스</b> </br> 
 🤚 역할 : Backend Developer</br>
 🛠️ 사용한 기술 : Spring, JPA, QueryDsl, GPT API, MySQL, EC2, RDS </br>
@@ -52,6 +43,15 @@
 👉 Github [https://github.com/Alcohol-Free-UMC-CMC/AlcoholFreeBack] </p>  
 
 ![AlcoholFree](./알콜프리.PNG)
+</br></br>
+
+<p align="center"> <b>아마추어를 위한 프로젝트 매칭 서비스</b> </br> 
+🤚 역할 : Backend Developer & Project Manager</br>
+🛠️ 사용한 기술 : Spring, JPA, QueryDsl, MySQL, EC2, RDS, S3</br>
+📃 Notion [https://best-jitterbug-a77.notion.site/8a1f98cbb7d944649b2f9aed11781247?pvs=4] <br> 
+👉 Github [https://github.com/Project-AmaChon/Server] </p> 
+
+![Amachon](./아마촌.PNG)
 </br></br>
 
 
