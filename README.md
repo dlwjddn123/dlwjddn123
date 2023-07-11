@@ -48,7 +48,7 @@
 <p align="center"> <b>아마추어를 위한 프로젝트 매칭 서비스</b> </br> 
 🤚 역할 : Backend Developer & Project Manager</br>
 🛠️ 사용한 기술 : Spring, JPA, QueryDsl, MySQL, EC2, RDS, S3</br>
-📃 Notion [https://best-jitterbug-a77.notion.site/8a1f98cbb7d944649b2f9aed11781247?pvs=4] <br> 
+📃 Notion [https://grass-jasmine-f40.notion.site/Amachon-a045c90070264fcaa3f84ccc50dd6b72?pvs=4] <br> 
 👉 Github [https://github.com/Project-AmaChon/Server] </p> 
 
 ![Amachon](./아마촌.PNG)
