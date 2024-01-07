@@ -51,7 +51,8 @@
 📃 Notion [https://grass-jasmine-f40.notion.site/Amachon-a045c90070264fcaa3f84ccc50dd6b72?pvs=4] <br> 
 👉 Github [https://github.com/Project-AmaChon/Server] </p> 
 
-![Amachon](./아마촌.PNG)
+![image](https://github.com/dlwjddn123/dlwjddn123/assets/81271328/9ce1d6fb-1e35-47e2-b9bc-ed489bc44fd4)
+
 </br></br>
 
 
