@@ -1,6 +1,6 @@
-<h1 align="center">Hi there🖐️</h1></br></br>
+<h1 align="center">Hi there</h1></br></br>
 
-<h1 align="center">💪 Skills</h1>
+<h1 align="center">Skills</h1>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0040FF?style=flat-square&logo=Python&logoColor=white"/>
@@ -13,13 +13,13 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </br>
 
-<h1 align="center">👉 GitHub Status</h1>
+<h1 align="center">GitHub Status</h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dlwjddn123&theme=blue-green"/>
 </p>
 
-<h1 align="center">🏃 Algorithm</h1>
+<h1 align="center">Algorithm</h1>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=acg6138"/>
 </p>
