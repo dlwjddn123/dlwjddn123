@@ -34,15 +34,7 @@
 👉 Github [https://github.com/UMC-Foot-Step] </p> 
 
 ![Dangbal](./당발.png)
-</br></br>
 
-<p align="center"> <b>논알콜 칵테일 추천 & 레시피 설명 & Chat Gpt를 이용한 새로운 칵테일 레시피를 추천해주는 서비스</b> </br> 
-🤚 역할 : Backend Developer</br>
-🛠️ 사용한 기술 : Spring, JPA, QueryDsl, GPT API, MySQL, EC2, RDS </br>
-📃 Notion [https://grass-jasmine-f40.notion.site/f3b3e959d3354fe8a301d84c3860c398?pvs=4] <br>
-👉 Github [https://github.com/Alcohol-Free-UMC-CMC/AlcoholFreeBack] </p>  
-
-![AlcoholFree](./알콜프리.PNG)
 </br></br>
 
 <p align="center"> <b>아마추어를 위한 프로젝트 매칭 서비스</b> </br> 
@@ -53,6 +45,15 @@
 
 ![image](https://github.com/dlwjddn123/dlwjddn123/assets/81271328/9ce1d6fb-1e35-47e2-b9bc-ed489bc44fd4)
 
+</br></br>
+
+<p align="center"> <b>논알콜 칵테일 추천 & 레시피 설명 & Chat Gpt를 이용한 새로운 칵테일 레시피를 추천해주는 서비스</b> </br> 
+🤚 역할 : Backend Developer</br>
+🛠️ 사용한 기술 : Spring, JPA, QueryDsl, GPT API, MySQL, EC2, RDS </br>
+📃 Notion [https://grass-jasmine-f40.notion.site/f3b3e959d3354fe8a301d84c3860c398?pvs=4] <br>
+👉 Github [https://github.com/Alcohol-Free-UMC-CMC/AlcoholFreeBack] </p>  
+
+![AlcoholFree](./알콜프리.PNG)
 </br></br>
 
 
