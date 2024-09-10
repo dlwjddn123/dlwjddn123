@@ -1,13 +1,13 @@
 ## Welcome! 👋
 - 주로 웹/모바일 서버 개발을 하고 있습니다.
-- 항상 사용자의 관점에서 생각하며 개발합니다.
+- 항상 **사용자의 관점**에서 생각하며 개발합니다.
 - 현실의 문제를 코드로 풀어내는 것을 좋아합니다.
-- 가장 중요하게 여기는 가치관은 "성장"입니다.
+- 가장 중요하게 여기는 가치관은 "**성장**"입니다.
 
 ## 📚 Languages & Skills 
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-0040FF?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Python-0040FF?style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## 🔗 Collaboration
 
